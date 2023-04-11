@@ -1,1 +1,1 @@
-# btt-marlin-ener3-firmware
+# btt-marlin-ender3-firmware
